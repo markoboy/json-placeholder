@@ -6,31 +6,7 @@
       "options": [
         {
           "text": "Service",
-          "postback": "flow_2914E7510151457C885A52929A11036A"
-        },
-        {
-          "text": "MOT",
-          "postback": "{{2914E7510151457C885A52929A11036A}}"
-        },
-        {
-          "text": "Service & MOT",
           "postback": "2914E7510151457C885A52929A11036A"
-        },
-        {
-          "text": "Seasonal Check",
-          "postback": "{{2914E7510151457C885A52929A11036A}}"
-        },
-        {
-          "text": "Tyre Check",
-          "postback": "{{2914E7510151457C885A52929A11036A}}"
-        },
-        {
-          "text": "General Repair & Maintenance",
-          "postback": "{{2914E7510151457C885A52929A11036A}}"
-        },
-        {
-          "text": "Recall",
-          "postback": "{{2914E7510151457C885A52929A11036A}}"
         }
       ]
     }
