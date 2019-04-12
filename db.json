@@ -6,7 +6,7 @@
       "options": [
         {
           "text": "Service",
-          "postback": "{{2914E7510151457C885A52929A11036A}}"
+          "postback": "flow_2914E7510151457C885A52929A11036A"
         },
         {
           "text": "MOT",
@@ -14,7 +14,7 @@
         },
         {
           "text": "Service & MOT",
-          "postback": "{{2914E7510151457C885A52929A11036A}}"
+          "postback": "2914E7510151457C885A52929A11036A"
         },
         {
           "text": "Seasonal Check",
