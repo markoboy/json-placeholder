@@ -1,7 +1,38 @@
 {
-    "data":
+  "book-a-service": {
+    "data": {
+      "type": "msg_options",
+      "text": "How can I help you today?",
+      "options": [
         {
-          "type": "text",
-          "text": "Testing JSON API with GitHub."
+          "text": "Service",
+          "postback": "{{2914E7510151457C885A52929A11036A}}"
+        },
+        {
+          "text": "MOT",
+          "postback": "{{2914E7510151457C885A52929A11036A}}"
+        },
+        {
+          "text": "Service & MOT",
+          "postback": "{{2914E7510151457C885A52929A11036A}}"
+        },
+        {
+          "text": "Seasonal Check",
+          "postback": "{{2914E7510151457C885A52929A11036A}}"
+        },
+        {
+          "text": "Tyre Check",
+          "postback": "{{2914E7510151457C885A52929A11036A}}"
+        },
+        {
+          "text": "General Repair & Maintenance",
+          "postback": "{{2914E7510151457C885A52929A11036A}}"
+        },
+        {
+          "text": "Recall",
+          "postback": "{{2914E7510151457C885A52929A11036A}}"
         }
+      ]
+    }
+  }
 }
